@@ -79,6 +79,6 @@ html, body {
 
   @media screen and (max-width: 690px) {
     #resultcard {
-      font-size: 5px;
+      font-size: 9px;
     }
   }
