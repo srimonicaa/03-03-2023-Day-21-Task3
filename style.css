@@ -77,8 +77,8 @@ html, body {
     font-size: 16px;
   }
 
-  @media screen and (max-width: 690px) {
+  @media screen and (max-width: 650px) {
     #resultcard {
-      font-size: 9px;
+      font-size: 15px;
     }
   }
